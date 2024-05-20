@@ -3,7 +3,7 @@ just learing llama llm model steps by steps
 
 # Step1: run and learning llama inference code on pc platform（5.20-6.5）
 
-## ## 1.1 clone llama code from hugging face(TinyLlama/TinyLlama-1.1B-Chat-v1.0)
+## 1.1 clone llama code from hugging face(TinyLlama/TinyLlama-1.1B-Chat-v1.0)
 
 using domestic mirror address in china(https://hf-mirror.com/TinyLlama/TinyLlama-1.1B-Chat-v1.0) for example
 
@@ -11,13 +11,13 @@ using domestic mirror address in china(https://hf-mirror.com/TinyLlama/TinyLlama
 git clone https://hf-mirror.com/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 ```
 
-# ## 1.2 install ide env(python,pycharm),pip install pkg
+## 1.2 install ide env(python,pycharm),pip install pkg
 
 ```shell
 pip install transformers==4.35 numpy pandas torch
 ```
 
-# ## 1.3 run script
+## 1.3 run script
 
 ```python
 import torch
@@ -38,7 +38,7 @@ outputs = pipe(prompt, max_new_tokens=256, do_sample=True, temperature=0.7, top_
 print(outputs[0]["generated_text"])
 ```
 
-## ## 1.4 python debug mode to watch all varients step by step
+## 1.4 python debug mode to watch all varients step by step
 
 ![](img/2024-05-20-23-16-01-image.png)
 
