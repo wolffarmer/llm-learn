@@ -40,7 +40,8 @@ print(outputs[0]["generated_text"])
 
 ## 1.4 python debug mode to watch all varients step by step
 
-![](img/2024-05-20-23-16-01-image.png)
+![image](https://github.com/wolffarmer/llm-learn/assets/15634187/7a315de7-cb64-4e8c-ae2c-c12f404c205b)
+
 
 # Step2: run llama code in orangepi ascend platform（6.6-6.20）-- TODO
 
