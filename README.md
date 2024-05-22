@@ -1,4 +1,5 @@
 # llm-learn Note
+
 just learing llama llm model steps by steps
 
 # Step1: run and learning llama inference code on pc platform（5.20-6.5）
@@ -43,9 +44,22 @@ print(outputs[0]["generated_text"])
 ![image](https://github.com/wolffarmer/llm-learn/assets/15634187/7a315de7-cb64-4e8c-ae2c-c12f404c205b)
 
 
-# Step2: run llama code in orangepi ascend platform（6.6-6.20）-- TODO
+# Step2: run llama code in orangepi ascend platform（6.6-6.20）
+
+## 2.1 download firmware and os package of oriange ai pro from official website or from my baidu cloud storge share link
+
+- official website （also baidu cloud storage link）
+
+[Orange Pi AIpro Orange Pi官网-香橙派（Orange Pi）开发板,开源硬件,开源软件,开源芯片,电脑键盘](http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-AIpro.html)
+
+- my baidu cloud storge share link
+
+链接：https://pan.baidu.com/s/1CUJdWhZwLqf1pT0YIod56A?pwd=7vt4 
+提取码：7vt4 
+2.2 install os(ubunto) from "orange ai pro\用户手册\OrangePi_AI_Pro_昇腾_用户手册_v0.3.1.pdf" 
+
+2.3 run sample in 
 
 # Step3: train llama model in pc platform(6.21-7.21) -- TODO
 
 # Step4: Modify model training using data parallelism and model parallelism using multiple GPUs(7.21-8.21) -- TODO
-
