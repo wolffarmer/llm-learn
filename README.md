@@ -1,4 +1,4 @@
-# llm-learn Note
+![image](https://github.com/wolffarmer/llm-learn/assets/15634187/4e1b744b-bb3e-4b75-910b-bb8ddaaf039f)# llm-learn Note
 
 just learing llama llm model steps by steps
 
@@ -58,7 +58,11 @@ print(outputs[0]["generated_text"])
 提取码：7vt4 
 2.2 install os(ubunto) from "orange ai pro\用户手册\OrangePi_AI_Pro_昇腾_用户手册_v0.3.1.pdf" 
 
-2.3 run sample in 
+2.3 instsll system and run sample 
+![image](https://github.com/wolffarmer/llm-learn/assets/15634187/6be3b4b9-fdff-4ee8-a893-9a93d74cd78d)
+![image](https://github.com/wolffarmer/llm-learn/assets/15634187/0ab488c7-9497-40bd-890e-cdf139aa99ca)
+![image](https://github.com/wolffarmer/llm-learn/assets/15634187/0e34cebb-4e2c-4575-a252-afd9616d60d5)
+
 
 # Step3: train llama model in pc platform(6.21-7.21) -- TODO
 
