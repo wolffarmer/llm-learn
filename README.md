@@ -53,9 +53,9 @@ print(outputs[0]["generated_text"])
 [Orange Pi AIpro Orange Pi官网-香橙派（Orange Pi）开发板,开源硬件,开源软件,开源芯片,电脑键盘](http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-AIpro.html)
 
 - my baidu cloud storge share link
-
+- 
 链接：https://pan.baidu.com/s/1CUJdWhZwLqf1pT0YIod56A?pwd=7vt4 
-提取码：7vt4 
+提取码：7vt4
 2.2 install os(ubunto) from "orange ai pro\用户手册\OrangePi_AI_Pro_昇腾_用户手册_v0.3.1.pdf" 
 
 2.3 install system(ubtunto) and run sample 
