@@ -65,6 +65,8 @@ print(outputs[0]["generated_text"])
 
 # Step3: train llama model in pc platform(6.21-7.21) -- TODO
 ## dataset 有中英文对照 [https://huggingface.co/datasets/silk-road/alpaca-data-gpt4-chinese](https://huggingface.co/datasets/lchakkei/OpenOrca-Traditional-Chinese-ChatML-Format)
-
+各家数据集格式都不太一样，需要自己代码里面调整
+参考视频：
+https://www.bilibili.com/video/BV1km421T7yj/?spm_id_from=333.337.search-card.all.click&vd_source=46d69d457bc7d31bf6afccb828be7095
 
 # Step4: Modify model training using data parallelism and model parallelism using multiple GPUs(7.21-8.21) -- TODO
