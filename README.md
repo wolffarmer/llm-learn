@@ -64,5 +64,6 @@ print(outputs[0]["generated_text"])
 
 
 # Step3: train llama model in pc platform(6.21-7.21) -- TODO
+## dataset 中英文对照 https://huggingface.co/datasets/silk-road/alpaca-data-gpt4-chinese
 
 # Step4: Modify model training using data parallelism and model parallelism using multiple GPUs(7.21-8.21) -- TODO
