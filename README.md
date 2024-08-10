@@ -70,3 +70,8 @@ print(outputs[0]["generated_text"])
 https://www.bilibili.com/video/BV1km421T7yj/?spm_id_from=333.337.search-card.all.click&vd_source=46d69d457bc7d31bf6afccb828be7095
 
 # Step4: Modify model training using data parallelism and model parallelism using multiple GPUs(7.21-8.21) -- TODO
+![image](https://github.com/user-attachments/assets/d0d1d893-d57b-4708-9c5d-ff49ca0bc1c0)
+![image](https://github.com/user-attachments/assets/72d8d802-95e0-4b1d-a4aa-0f50683b21ae)
+![image](https://github.com/user-attachments/assets/f3c7eb90-a8ab-4696-ac01-9340f19b29a6)
+
+
